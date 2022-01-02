@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julián</h1>
 <h3 align="center">fullstack developer from Buenos Aires</h3>
-🌱Im a selftaught student interested in fullstack development, since 22/08 im following the curriculum of The Odin Project a open source project to learn web development. Im looking for my first job in the industry. 🌱 I’m currently learning Responsive design, NODE.js and Redux
+🌱Im a selftaught student interested in fullstack development, since 21/08 im following the curriculum of The Odin Project a open source project to learn web development. Im looking for my first job in the industry. 🌱 I’m currently learning Responsive design, NODE.js and Redux
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
