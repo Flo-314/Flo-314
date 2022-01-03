@@ -3,7 +3,7 @@
 🌱Im a selftaught student interested in fullstack development, since 21/08 im following the curriculum of The Odin Project a open source project to learn web development. 
 
 <p>
-🌱CUrrently looking for my first job in the industry, and learning Responsive design, NODE.js and Redux also.
+🌱Currently looking for my first job in the industry, and learning Responsive design, NODE.js and Redux also.
 <p>
 <p>At the same time im studyng Agronomy at UBA</p>
 <h3 align="left">Connect with me:</h3>
