@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julián</h1>
-<h3 align="center">fullstack developer from Buenos Aires</h3>
+<h3 align="center"> A Fullstack Developer from Buenos Aires</h3>
 🌱Im a selftaught student interested in fullstack development, since 21/08 im following the curriculum of The Odin Project a open source project to learn web development. 
 
 <p>
