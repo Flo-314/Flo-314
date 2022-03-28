@@ -3,7 +3,7 @@
 🌱Im a selftaught student interested in fullstack development. At the moment i am studying Im learning Typescript, Advanced React and design patterns .
 
 <p>
-🌱Currently looking for my first job in the industry. 
+🌱For any freelance jobs contact me in linkedin
 <p>
 <p>At the same time im studyng Agronomy at UBA</p>
 <h3 align="left">Connect with me:</h3>
