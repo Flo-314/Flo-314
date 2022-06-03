@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Julián</h1>
+<h1 align="center">Hi 👋, I'm flo</h1>
 <h3 align="center"> A Fullstack Developer from Buenos Aires</h3>
-🌱Im a selftaught student interested in fullstack development. At the moment i am studying Im learning Typescript, Advanced React and design patterns .
 
 <p>
 🌱For any freelance jobs contact me in linkedin
