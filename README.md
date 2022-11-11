@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm flo</h1>
-<h3 align="center"> A Fullstack Developer from Buenos Aires</h3>
+<h3 align="center"> A Fullstack Developer from Argentina</h3>
 
 <p>
 🌱For any freelance jobs contact me in linkedin
